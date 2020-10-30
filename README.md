@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<h1 align="center">Hi 👋, I'm Olaoluwa</h1>
+<h1 align="center">Hi 👋, I'm Ola</h1>
 <p align="center">Front-end developer, who wants to make life easier and help others with software. I enjoy working with React, Node, SCSS and JavaScript 😊</p>
 
 <p align="left"> <a href="https://twitter.com/olaolumustapha" target="blank"><img src="https://img.shields.io/twitter/follow/olaolumustapha?logo=twitter&style=for-the-badge" alt="olaolumustapha" /></a> </p>
