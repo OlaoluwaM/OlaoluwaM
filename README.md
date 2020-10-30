@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, JavaScript**
 
-- 📫 How to reach me **jomeemustapha@gmail.com**
+- 📫 How to reach me **[Twitter](https://twitter.com/OlaoluMustapha) and here on github**
 
 - ⚡ Fun fact **I love Anime!**
 
