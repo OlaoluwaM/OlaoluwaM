@@ -1,5 +1,6 @@
 <!--### Hi there 👋-->
 
+![test](./animatedBanner.gif)
 <h1 align="center">Hi 👋, I'm Ola</h1>
 <p align="center">Front-end developer, who wants to make life easier and help others with software. I enjoy working with React, Node, SCSS and JavaScript 😊</p>
 
