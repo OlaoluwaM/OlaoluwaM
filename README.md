@@ -6,13 +6,13 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/olaolumustapha" target="blank"><img src="https://img.shields.io/twitter/follow/olaolumustapha?logo=twitter&style=for-the-badge" alt="olaolumustapha" /></a> </p> -->
 
-- 🔭 I’m currently working on building useful things
+- 🔭 I’m currently working on Dotfilers
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning Functional Programming
 
 - 👨‍💻 All of my projects are available at Here on Github
 
-- 💬 Ask me about anything from development to anime 😄
+- 💬 Ask me about anything from Typescript, functional programming, CS to anime 😄
 
 - 📫 You can reach me **On [Twitter](https://twitter.com/OlaoluMustapha), at [My email](mailto:olaolum@pm.me) and [LinkedIn](https://www.linkedin.com/in/olaoluwam/);**
 
