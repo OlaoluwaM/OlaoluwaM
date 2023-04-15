@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I love Anime!**
 
+- 📄 [My Resume](https://standardresume.co/r/olaolum)
+
 <h1 align="center">🤖</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
