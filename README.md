@@ -16,7 +16,7 @@
 
 - 📫 You can reach me **On [Twitter](https://twitter.com/OlaoluMustapha), at [My email](mailto:olaolum@pm.me) and [LinkedIn](https://www.linkedin.com/in/olaoluwam/);**
 
-- 📄 [My Resume](https://standardresume.co/r/sGyrVjj2Pjc_xjND78gWu)
+- 📄 [My Resume](https://standardresume.co/r/olaolum-full-stack-fp)
 
 <!-- <h1 align="center">🤖</h1>
 <p align="center">
