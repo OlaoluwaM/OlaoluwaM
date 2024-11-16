@@ -2,19 +2,13 @@
 
 ![Animated Banner Gif](./animatedBanner-no-loop.gif)
 <h1 align="center">Hi <span align="center">👋🏾</span>, I'm Ola</h1>
-<p align="center">Full Stack Software Engineer, driven by quality, impact, and passion. Experienced in working across the stack and building products from scratch. Functional programming (Haskell) enthusiast.</p>
+<p align="center">Full Stack Software Engineer, driven by quality, impact, and passion. Experienced in working across the stack and bringing ideas to life. Haskeller</p>
 
 <!-- <p align="left"> <a href="https://twitter.com/olaolumustapha" target="blank"><img src="https://img.shields.io/twitter/follow/olaolumustapha?logo=twitter&style=for-the-badge" alt="olaolumustapha" /></a> </p> -->
 
-- 🔭 I’m currently working on Obsidian AI 💜
+- 👨‍💻 All of my projects are available here on Github
 
-- 🌱 I’m currently learning Haskell 💜!
-
-- 👨‍💻 All of my projects are available at Here on Github
-
-- 💬 Ask me about anything related to Functional Programming, Haskell, Typescript, Anime, Type level programming, and AI
-
-- 📫 You can reach me **On [Twitter](https://twitter.com/OlaoluMustapha), at [My email](mailto:olaolum@pm.me) and [LinkedIn](https://www.linkedin.com/in/olaoluwam/);**
+- 📫 You can reach me **At [My email](mailto:olaolum@pm.me) and [LinkedIn](https://www.linkedin.com/in/olaoluwam/);**
 
 <!-- <h1 align="center">🤖</h1>
 <p align="center">
